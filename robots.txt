@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://casino-dengi.top/sitemap.xml
+Host: depozit-ot-5-rubley.github.io
+Sitemap: https://depozit-ot-5-rubley.github.io/sitemap.xml
